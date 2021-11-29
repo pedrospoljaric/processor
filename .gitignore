@@ -1,0 +1,8 @@
+*
+!.gitignore
+!*.v
+!*.vwf
+!program.txt
+!projeto.qpf
+!projeto.qsf
+!db/*
